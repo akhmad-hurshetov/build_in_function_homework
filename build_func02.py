@@ -8,5 +8,4 @@ def main():
         result: float
     """
 
-    return n
-print(main())
+    return
