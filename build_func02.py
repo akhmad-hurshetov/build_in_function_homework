@@ -7,4 +7,4 @@ def main(n):
         result: float
     """
 
-    return type(n)
+    return float(n) 
