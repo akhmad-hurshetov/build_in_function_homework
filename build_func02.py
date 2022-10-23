@@ -1,6 +1,6 @@
 def main():
 
-    n = 8 * (7 / 2 - 4)
+    n = 3 * ( 7 / 5 - 9 / 4)
     """
     Calculate the value of expression and return result:
 
