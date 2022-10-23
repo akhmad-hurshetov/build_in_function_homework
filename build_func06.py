@@ -1,4 +1,6 @@
 def main(a):
+
+    a = round(a, 2)
     """
     Given a argument called 'a' type of int , round the result to 2 decimal places return result:
     Args:
@@ -6,5 +8,5 @@ def main(a):
     Returns:
         result : float
     """
-    return
+    return a
  
