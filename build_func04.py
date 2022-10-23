@@ -7,5 +7,4 @@ def main(n):
     Returns:
         result : float
     """
-    return (4 - n)**(4 - 2)
-print(main(8))
+    return (( n - 4 ) / 2 ) ** ( 4 - 2 )
