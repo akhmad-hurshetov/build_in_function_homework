@@ -7,4 +7,4 @@ def main(n,x):
     Returns:
         result : int
     """
-    return 
+    return (x**n +n**x)
