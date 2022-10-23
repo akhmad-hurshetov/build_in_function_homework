@@ -1,4 +1,5 @@
 def main(n):
+    n = (n**2)**1/2
     """
     Given an argument called 'n' type of int , return its absolute value
     Args:
@@ -7,4 +8,4 @@ def main(n):
         absolute value: int
     """
 
-    return (n**2)**1/2
+    return n

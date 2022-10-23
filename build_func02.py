@@ -1,4 +1,5 @@
 def main():
+    n = 8*(4-5)
     """
     Calculate the value of expression and return result:
 
@@ -6,4 +7,4 @@ def main():
         result: float
     """
 
-    return
+    return type(n)
