@@ -1,4 +1,6 @@
 def main():
+
+    n = 8 * (7 / 2 - 4)
     """
     Calculate the value of expression and return result:
 
@@ -6,4 +8,4 @@ def main():
         result: float
     """
 
-    return 8 * (7 / 2 - 4)
+    return n
