@@ -1,5 +1,5 @@
 def main(n):
-    n = 8*(4-5)
+    n = (n*2-8/3)
     """
     Calculate the value of expression and return result:
 
@@ -8,5 +8,3 @@ def main(n):
     """
 
     return type(n)
-
-print(main())
