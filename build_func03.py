@@ -1,5 +1,5 @@
 def main(n):
-    n = 3 * (( n +  1) ** 2)
+    n = n ** ((5 - 3) * 2)
     """
     Given a argument called 'n' type of float , calculate the value of expression and return result:
     Args:
@@ -8,3 +8,5 @@ def main(n):
         result : float
     """
     return n
+
+print(main(4))
