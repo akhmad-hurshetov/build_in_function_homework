@@ -1,6 +1,5 @@
 def main(n):
-    n = 5
-    value = type(n)
+    (n**2)**1/2
     """
     Given an argument called 'n' type of int , return its absolute value
     Args:
@@ -9,4 +8,4 @@ def main(n):
         absolute value: int
     """
 
-    return 
+    return n
