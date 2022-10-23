@@ -6,4 +6,4 @@ def main(n):
     Returns:
         result : float
     """
-    return 8 * (n / 2 - 4)
+    return 3 * (( n + 1) ** 2 )
