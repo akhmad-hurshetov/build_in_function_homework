@@ -1,6 +1,8 @@
 def main(n):
+    n = 5
+    value = type(n)
     """
-    Given a argument called 'n' type of int , return its absolute value
+    Given an argument called 'n' type of int , return its absolute value
     Args:
         n: int
     Returns:
